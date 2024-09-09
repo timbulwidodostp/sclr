@@ -1,6 +1,8 @@
 # sclr
 Maximum likelihood estimation of the scaled logit (logistic) regression model parameters Use sclr With (In) R Software
 
+https://www.youtube.com/watch?v=EwfHfbXujOw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
